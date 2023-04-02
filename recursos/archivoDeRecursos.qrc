@@ -1,6 +1,5 @@
 <RCC>
   <qresource prefix="prefijoNuevo">
-    <file>SPRho_512x512.png</file>
-    <file>ScPrime.jpg</file>
+    <file>scprime_scp_coin_icon_256x256_0.svg</file>
   </qresource>
 </RCC>
